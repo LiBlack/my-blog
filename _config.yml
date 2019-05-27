@@ -2,7 +2,7 @@
 title: zhoucj Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: changzhou048@gmail.com
 description: ""
 keyword: ""
 url: "http://www.valar.life"              # your host, for absolute URL
@@ -12,7 +12,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
+weibo_username:     周可温的爸爸
 zhihu_username:     huxpro
 github_username:    huxpro
 #twitter_username:  huxpro
